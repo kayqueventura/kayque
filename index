@@ -1,6 +1,47 @@
-<header>Kayquin<header>
+<html lang="pt-BR">
 
-    <h1>Tears For Fears - Everybody Wants To Rule The World (Official Music Video)<h1>
-        <p>#Tears></p>
-    
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/aGCdLKXNF3w?si=5Vyc8Zw_W3OwRQXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>kayque music</title>
+</head>
+
+<body>
+    <header>kayquin</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>CJOTA - ELA É FÚTIL feat. MC DANIEL, VEIGH, LOTTO (CLIPE OFICIAL)</h1>
+            <p>#ela é futil</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/XjRF1oqsIQ0?si=HcHQEURDiCVYZ0Rr" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Musicas</h2>
+        <div class="categoria-videos">
+            <a href="https://www.youtube.com/watch?v=5kN3IhjtVmk">
+                <img src="https://img.youtube.com/vi/5kN3IhjtVmk/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=OI18S84edPw">
+                <img src="https://img.youtube.com/vi/OI18S84edPw/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=13BFR-AvzNg">
+                <img src="https://img.youtube.com/vi/13BFR-AvzNg/maxresdefault.jpg" />
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
